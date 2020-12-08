@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+service Collaborative_Learning
+{
+  rpc UpdateIdx(IdxRequest) returns (IdxResponse){}
+  rpc UpdateGrad(GradRequest) returns (GradResponse){}
+}
+
+message IdxRequest
+{
+  repeated uint32  idx_ori = 1;
+}
+
+message IdxResponse
+{
+  repeated uint32 idx_upd = 1;
+}
+
+message GradRequest
+{
+  repeated int32 grad_ori = 1;
+}
+
+message GradResponse
+{
+  repeated int32 grad_upd = 1;
+}

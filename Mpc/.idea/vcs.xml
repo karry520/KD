@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ABY" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ABY/extern/ENCRYPTO_utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ABY/extern/ENCRYPTO_utils/extern/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ABY/extern/ENCRYPTO_utils/extern/relic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ABY/extern/OTExtension" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ABY/extern/OTExtension/extern/ENCRYPTO_utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ABY/extern/OTExtension/extern/ENCRYPTO_utils/extern/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ABY/extern/OTExtension/extern/ENCRYPTO_utils/extern/relic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pybind11" vcs="Git" />
+  </component>
+</project>
